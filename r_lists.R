@@ -1,5 +1,7 @@
 ##Lists
-#Lists can store objects of varying data types.
+##Notes are taken from "R for Everyone: Advanced Analytics and Graphics" 
+##by Jared P. Lander
+##Chapter 5: Advanced Data Structures
 
 #data.frame to use in this exercise
 x <- 10:1
